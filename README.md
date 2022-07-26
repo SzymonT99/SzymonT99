@@ -10,9 +10,7 @@ My goal is to develop my skills and learn new technologies.
 * GIT
 
 ### :gear: GitHub Analytics
-<p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?   username=SzymonT99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?  username=SzymonT99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ### :mailbox_with_mail: Contact with me
 <p>
